@@ -1,0 +1,112 @@
+Nov  4 08:10:45 jacks-fedora gdm-password][62589]: gkr-pam: unlocked login keyring
+Nov  4 08:21:12 jacks-fedora gdm-password][62852]: gkr-pam: unlocked login keyring
+Nov  4 09:03:16 jacks-fedora gdm-password][63849]: gkr-pam: unlocked login keyring
+Nov  4 22:29:06 jacks-fedora gdm-password][64702]: gkr-pam: unlocked login keyring
+Nov  5 00:04:41 jacks-fedora gdm-password][67684]: gkr-pam: unlocked login keyring
+Nov  5 09:05:45 jacks-fedora gdm-password][68923]: gkr-pam: unlocked login keyring
+Nov  5 09:12:41 jacks-fedora gdm-password][69219]: gkr-pam: unlocked login keyring
+Nov  5 22:32:35 jacks-fedora gdm-password][69924]: gkr-pam: unlocked login keyring
+Nov  5 23:04:53 jacks-fedora unix_chkpwd[70839]: password check failed for user (jack00)
+Nov  5 23:04:53 jacks-fedora gdm-password][70832]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  5 23:04:53 jacks-fedora gdm-password][70832]: gkr-pam: the password for the login keyring was invalid.
+Nov  5 23:06:53 jacks-fedora unix_chkpwd[70885]: password check failed for user (jack00)
+Nov  5 23:06:53 jacks-fedora gdm-password][70844]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  5 23:06:53 jacks-fedora gdm-password][70844]: gkr-pam: the password for the login keyring was invalid.
+Nov  5 23:07:33 jacks-fedora gdm-password][70890]: gkr-pam: unlocked login keyring
+Nov  6 08:49:49 jacks-fedora gdm-password][71926]: gkr-pam: unlocked login keyring
+Nov  6 08:57:33 jacks-fedora gdm-password][72198]: gkr-pam: unlocked login keyring
+Nov  6 22:30:08 jacks-fedora gdm-password][73245]: gkr-pam: unlocked login keyring
+Nov  7 08:12:58 jacks-fedora gdm-password][77411]: gkr-pam: unlocked login keyring
+Nov  7 11:06:01 jacks-fedora unix_chkpwd[78487]: password check failed for user (jack00)
+Nov  7 11:06:01 jacks-fedora gdm-password][78420]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 11:06:01 jacks-fedora gdm-password][78420]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 11:06:08 jacks-fedora gdm-password][78498]: gkr-pam: unlocked login keyring
+Nov  7 11:39:40 jacks-fedora unix_chkpwd[79233]: password check failed for user (jack00)
+Nov  7 11:39:40 jacks-fedora gdm-password][79225]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 11:39:40 jacks-fedora gdm-password][79225]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 11:39:45 jacks-fedora unix_chkpwd[79280]: password check failed for user (jack00)
+Nov  7 11:39:45 jacks-fedora gdm-password][79274]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 11:39:45 jacks-fedora gdm-password][79274]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 11:39:50 jacks-fedora gdm-password][79292]: gkr-pam: unlocked login keyring
+Nov  7 12:30:57 jacks-fedora gdm-password][80121]: gkr-pam: unlocked login keyring
+Nov  7 12:56:22 jacks-fedora unix_chkpwd[81062]: password check failed for user (jack00)
+Nov  7 12:56:22 jacks-fedora gdm-password][81032]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 12:56:22 jacks-fedora gdm-password][81032]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 12:56:29 jacks-fedora unix_chkpwd[81073]: password check failed for user (jack00)
+Nov  7 12:56:29 jacks-fedora gdm-password][81067]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 12:56:29 jacks-fedora gdm-password][81067]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 12:56:39 jacks-fedora gdm-password][81112]: gkr-pam: unlocked login keyring
+Nov  7 13:12:05 jacks-fedora gdm-password][81501]: gkr-pam: unlocked login keyring
+Nov  7 15:15:20 jacks-fedora gdm-password][83366]: gkr-pam: unlocked login keyring
+Nov  7 15:24:26 jacks-fedora gdm-password][83664]: gkr-pam: unlocked login keyring
+Nov  7 16:48:40 jacks-fedora gdm-password][85378]: gkr-pam: unlocked login keyring
+Nov  7 18:53:54 jacks-fedora unix_chkpwd[87410]: password check failed for user (jack00)
+Nov  7 18:53:54 jacks-fedora gdm-password][87319]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 18:53:54 jacks-fedora gdm-password][87319]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 18:54:00 jacks-fedora unix_chkpwd[87422]: password check failed for user (jack00)
+Nov  7 18:54:00 jacks-fedora gdm-password][87415]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  7 18:54:00 jacks-fedora gdm-password][87415]: gkr-pam: the password for the login keyring was invalid.
+Nov  7 18:54:07 jacks-fedora gdm-password][87432]: gkr-pam: unlocked login keyring
+Nov  7 20:22:29 jacks-fedora gdm-password][89211]: gkr-pam: unlocked login keyring
+Nov  8 08:13:37 jacks-fedora gdm-password][91762]: gkr-pam: unlocked login keyring
+Nov  8 08:32:37 jacks-fedora gdm-password][92444]: gkr-pam: unlocked login keyring
+Nov  8 08:32:40 jacks-fedora polkitd[1062]: Operator of unix-session:2 FAILED to authenticate to gain authorization for action org.rpm.dnf.v0.rpm.execute_transaction for system-bus-name::1.136 [/usr/bin/gnome-software --gapplication-service] (owned by unix-user:jack00)
+Nov  8 08:32:42 jacks-fedora polkitd[1062]: Operator of unix-session:2 FAILED to authenticate to gain authorization for action org.rpm.dnf.v0.rpm.execute_transaction for system-bus-name::1.136 [/usr/bin/gnome-software --gapplication-service] (owned by unix-user:jack00)
+Nov  8 09:49:39 jacks-fedora unix_chkpwd[94145]: password check failed for user (jack00)
+Nov  8 09:49:39 jacks-fedora gdm-password][94130]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  8 09:49:39 jacks-fedora gdm-password][94130]: gkr-pam: the password for the login keyring was invalid.
+Nov  8 09:49:46 jacks-fedora gdm-password][94150]: gkr-pam: unlocked login keyring
+Nov  8 09:59:06 jacks-fedora gdm-password][94826]: gkr-pam: unlocked login keyring
+Nov  8 10:14:57 jacks-fedora gdm-password][95371]: gkr-pam: unlocked login keyring
+Nov  8 10:32:14 jacks-fedora gdm-password][95845]: gkr-pam: unlocked login keyring
+Nov  8 13:18:42 jacks-fedora gdm-password][98868]: gkr-pam: unlocked login keyring
+Nov  8 13:53:27 jacks-fedora unix_chkpwd[99506]: password check failed for user (jack00)
+Nov  8 13:53:27 jacks-fedora gdm-password][99448]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov  8 13:53:27 jacks-fedora gdm-password][99448]: gkr-pam: the password for the login keyring was invalid.
+Nov  8 13:53:48 jacks-fedora gdm-password][99511]: gkr-pam: unlocked login keyring
+Nov  8 15:29:06 jacks-fedora gdm-password][100904]: gkr-pam: unlocked login keyring
+Nov  8 15:53:54 jacks-fedora gdm-password][101287]: gkr-pam: unlocked login keyring
+Nov  8 19:08:45 jacks-fedora gdm-password][102306]: gkr-pam: unlocked login keyring
+Nov  8 20:45:18 jacks-fedora gdm-password][104313]: gkr-pam: unlocked login keyring
+Nov  9 08:32:23 jacks-fedora gdm-password][105304]: gkr-pam: unlocked login keyring
+Nov  9 22:42:06 jacks-fedora gdm-password][106794]: gkr-pam: unlocked login keyring
+Nov 10 08:43:37 jacks-fedora gdm-password][109584]: gkr-pam: unlocked login keyring
+Nov 10 22:32:25 jacks-fedora unix_chkpwd[111294]: password check failed for user (jack00)
+Nov 10 22:32:25 jacks-fedora gdm-password][111278]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov 10 22:32:25 jacks-fedora gdm-password][111278]: gkr-pam: the password for the login keyring was invalid.
+Nov 10 22:32:33 jacks-fedora gdm-password][111299]: gkr-pam: unlocked login keyring
+Nov 10 22:39:48 jacks-fedora unix_chkpwd[111480]: password check failed for user (jack00)
+Nov 10 22:39:48 jacks-fedora gdm-password][111465]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov 10 22:39:48 jacks-fedora gdm-password][111465]: gkr-pam: the password for the login keyring was invalid.
+Nov 10 22:40:14 jacks-fedora gdm-password][111486]: gkr-pam: unlocked login keyring
+Nov 10 23:36:38 jacks-fedora gdm-password][112714]: gkr-pam: unlocked login keyring
+Nov 11 08:30:25 jacks-fedora gdm-password][113468]: gkr-pam: unlocked login keyring
+Nov 11 08:51:48 jacks-fedora gdm-password][114183]: gkr-pam: unlocked login keyring
+Nov 11 09:45:03 jacks-fedora gdm-password][115468]: gkr-pam: unlocked login keyring
+Nov 11 14:28:22 jacks-fedora gdm-password][116733]: gkr-pam: unlocked login keyring
+Nov 11 17:46:12 jacks-fedora gdm-password][118220]: gkr-pam: unlocked login keyring
+Nov 11 18:13:32 jacks-fedora gdm-password][119371]: gkr-pam: unlocked login keyring
+Nov 11 18:38:46 jacks-fedora gdm-password][120025]: gkr-pam: unlocked login keyring
+Nov 11 19:30:10 jacks-fedora gdm-password][121452]: gkr-pam: unlocked login keyring
+Nov 11 19:57:49 jacks-fedora gdm-password][121853]: gkr-pam: unlocked login keyring
+Nov 11 22:17:14 jacks-fedora unix_chkpwd[126810]: password check failed for user (jack00)
+Nov 11 22:17:14 jacks-fedora gdm-password][126795]: pam_unix(gdm-password:auth): authentication failure; logname=jack00 uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=jack00
+Nov 11 22:17:14 jacks-fedora gdm-password][126795]: gkr-pam: the password for the login keyring was invalid.
+Nov 11 22:17:21 jacks-fedora gdm-password][126816]: gkr-pam: unlocked login keyring
+Nov 11 22:30:56 jacks-fedora sudo[128028]:  jack00 : TTY=pts/2 ; PWD=/home/jack00/projects/logsentinel ; USER=root ; COMMAND=/usr/sbin/dnf install -y python3 python3-pip
+Nov 11 22:30:56 jacks-fedora (systemd)[128048]: pam_unix(systemd-user:session): session opened for user root(uid=0) by root(uid=0)
+Nov 11 22:30:57 jacks-fedora sudo[128028]: pam_systemd(sudo:session): Failed to check if /run/user/0/bus exists, ignoring: Permission denied
+Nov 11 22:30:57 jacks-fedora sudo[128028]: pam_unix(sudo:session): session opened for user root(uid=0) by jack00(uid=1000)
+Nov 11 22:30:59 jacks-fedora sudo[128028]: pam_unix(sudo:session): session closed for user root
+Nov 11 23:14:38 jacks-fedora sudo[130254]:  jack00 : TTY=pts/2 ; PWD=/home/jack00/projects/logsentinel ; USER=root ; COMMAND=/usr/sbin/journalctl -u sshd --since today --no-pager
+Nov 11 23:14:38 jacks-fedora (systemd)[130276]: pam_unix(systemd-user:session): session opened for user root(uid=0) by root(uid=0)
+Nov 11 23:14:39 jacks-fedora sudo[130254]: pam_systemd(sudo:session): Failed to check if /run/user/0/bus exists, ignoring: Permission denied
+Nov 11 23:14:39 jacks-fedora sudo[130254]: pam_unix(sudo:session): session opened for user root(uid=0) by jack00(uid=1000)
+Nov 11 23:14:39 jacks-fedora sudo[130254]: pam_unix(sudo:session): session closed for user root
+Nov 11 23:14:51 jacks-fedora sudo[130315]:  jack00 : TTY=pts/2 ; PWD=/home/jack00/projects/logsentinel ; USER=root ; COMMAND=/usr/sbin/ls -l /var/log/secure
+Nov 11 23:14:51 jacks-fedora (systemd)[130321]: pam_unix(systemd-user:session): session opened for user root(uid=0) by root(uid=0)
+Nov 11 23:14:51 jacks-fedora sudo[130315]: pam_systemd(sudo:session): Failed to check if /run/user/0/bus exists, ignoring: Permission denied
+Nov 11 23:14:51 jacks-fedora sudo[130315]: pam_unix(sudo:session): session opened for user root(uid=0) by jack00(uid=1000)
+Nov 11 23:14:51 jacks-fedora sudo[130315]: pam_unix(sudo:session): session closed for user root
+Nov 11 23:16:18 jacks-fedora sudo[130422]:  jack00 : TTY=pts/2 ; PWD=/home/jack00/projects/logsentinel ; USER=root ; COMMAND=/usr/sbin/cp /var/log/secure data/sample_auth.log
+Nov 11 23:16:18 jacks-fedora (systemd)[130428]: pam_unix(systemd-user:session): session opened for user root(uid=0) by root(uid=0)

@@ -1,0 +1,23 @@
+Nov 11 20:00:01 jacks-fedora sshd[1001]: Failed password for admin from 192.168.1.50 port 50101 ssh2
+Nov 11 20:00:35 jacks-fedora sshd[1002]: Failed password for admin from 192.168.1.50 port 50102 ssh2
+Nov 11 20:01:10 jacks-fedora sshd[1003]: Failed password for root from 192.168.1.50 port 50103 ssh2
+Nov 11 20:02:15 jacks-fedora sshd[1004]: Failed password for admin from 192.168.1.50 port 50104 ssh2
+Nov 11 20:03:20 jacks-fedora sshd[1005]: Failed password for admin from 192.168.1.50 port 50105 ssh2
+Nov 12 00:30:01 jacks-fedora sshd[2001]: Failed password for testuser from 192.168.1.99 port 50111 ssh2
+Nov 14 08:55:01 jacks-fedora sshd[3001]: Failed password for testuser from 192.168.1.99 port 50111 ssh2
+Nov 14 08:55:02 jacks-fedora sshd[3001]: Failed password for testuser from 192.168.1.99 port 50111 ssh2
+Nov 14 08:55:03 jacks-fedora sshd[3001]: Failed password for testuser from 192.168.1.99 port 50112 ssh2
+Nov 14 08:55:04 jacks-fedora sshd[3001]: Failed password for testuser from 192.168.1.99 port 50113 ssh2
+Nov 14 08:55:05 jacks-fedora sshd[3001]: Failed password for testuser from 192.168.1.99 port 50114 ssh2
+Nov 14 09:10:01 jacks-fedora sshd[5001]: Failed password for admin from 192.168.1.88 port 51001 ssh2
+Nov 14 09:10:02 jacks-fedora sshd[5001]: Failed password for admin from 192.168.1.88 port 51002 ssh2
+Nov 14 09:10:03 jacks-fedora sshd[5001]: Failed password for admin from 192.168.1.88 port 51003 ssh2
+Nov 14 09:10:04 jacks-fedora sshd[5001]: Failed password for admin from 192.168.1.88 port 51004 ssh2
+Nov 14 09:10:05 jacks-fedora sshd[5001]: Failed password for admin from 192.168.1.88 port 51005 ssh2
+Nov 14 09:10:10 jacks-fedora sshd[4001]: Accepted password for admin from 192.168.1.88 port 50006 ssh2
+Nov 16 09:40:01 jacks-fedora sudo[6001]: jack : TTY=pts/0 ; PWD=/home/jack ; USER=root ; COMMAND=/usr/bin/id
+Nov 16 09:40:02 jacks-fedora sudo[6002]: pam_unix(sudo:auth): authentication failure; logname=jack uid=1000 euid=0 tty=/dev/pts/0 ruser=jack rhost= user=jack
+Nov 16 09:40:03 jacks-fedora useradd[6003]: new user: name=live_test, UID=1003, GID=1003, home=/home/live_test, shell=/bin/bash
+Nov 16 09:40:04 jacks-fedora userdel[6004]: delete user 'live_test'
+Nov 16 09:40:05 jacks-fedora usermod[6005]: add 'jack' to group 'wheel'
+Nov 16 09:40:06 jacks-fedora gpasswd[6006]: user live_test added by root to group sudo
